@@ -1,0 +1,8 @@
+{
+    "port": 3000,
+    "dataAccess": {
+        "departamentsDsFilePath": "./resources/departments.json",
+        "officesDsFilePath": "./resources/offices.json",
+        "employeesApiUri": "https://rfy56yfcwk.execute-api.us-west-1.amazonaws.com/bigcorp"
+    }
+}
